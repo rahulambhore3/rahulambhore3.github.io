@@ -21,7 +21,7 @@ email: arkeytekllc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arkeytek.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cajunAA
 github_username:  aaronralls
 facebook_username: aaron.ralls.9
