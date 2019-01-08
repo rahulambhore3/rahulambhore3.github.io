@@ -15,6 +15,12 @@ My name is Aaron Ralls, a cloud architect with 20 years of experience.  I have a
 
 Right-sized solutions ™ is a concept of focusing on resolving the business issue vs. the symptoms. Simple and affordable solutions are the goal.
 
+My favorite quote:
+> Success comes in cans, not cant's ~ Joel Weldon
+
+
+Here are some of my most recent Microsoft Certifications:
+
 ![MCP70-486]
  
 ![MCP70-535]
