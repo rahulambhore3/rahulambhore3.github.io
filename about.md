@@ -11,7 +11,7 @@ title: About
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
    
-   <img src="{{ site.baseurl }}/assets/images/about/aaron-ralls.jpg" alt="Aaron Ralls software architect MCP" width="300" height="300" class="size-medium wp-image-856" />
+   <img src="{{ site.baseurl }}/assets/images/about/aaron-ralls.jpg" alt="Aaron Ralls software architect MCP" width="3840" height="5760"/>
 
     Thank you for visiting my site!
  
