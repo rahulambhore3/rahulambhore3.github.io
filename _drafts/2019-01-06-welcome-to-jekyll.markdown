@@ -20,6 +20,26 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+{::comment}
+Provide sample internal Blog post Ref
+Get a free blog [words for link][FreeBlog2]
+[FreeBlog2]: {% post_url 2019-01-10-how-to-start-a-blog-for-free %} "Free Blog 2"
+[RefID-Name]: % post_url FILE_NAME_WITHOUT_.MD % "ALT TEXT"
+{:/comment}
+
+{::comment}
+Provide sample internal Page Ref
+{:/comment}
+
+{::comment}
+Provide sample external Ref
+Check out the [Jekyll docs][jekyll-docs] 
+
+[jekyll-docs]: https://jekyllrb.com/docs/home "Jekyll Docs Home"
+{:/comment}
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+[GooglePageSpeedInisights]: https://developers.google.com/speed/pagespeed/insights/
+[JekyllGooRoo]: https://mademistakes.com "Mademistakes.com"

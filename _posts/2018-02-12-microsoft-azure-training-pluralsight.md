@@ -7,8 +7,11 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
+featured: 
+  visible: true
 categories:
-
+- Microsoft
+- Azure
 tags:
 - Azure
 - Training
