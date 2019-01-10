@@ -48,7 +48,7 @@ excerpt: |-
 permalink: '/:year/:month/:day/:title'
 ---
 
-<h1>Microsoft Ignite 2017!</h1>
+<h1>Microsoft Ignite 2017</h1>
 <p>As I sit in my hotel room in Orlando, FL revising my <a href="https://www.microsoft.com/en-us/ignite/default.aspx" rel="noopener">Microsoft Ignite</a> conference schedule for the week, I realized I needed to set some goals for the week. I have been busing adding meetings to my calendar and reminders on my smartphone for offsite events, networking opportunities and critical sessions I do not want to miss. All the while I have not taken the time to step back and think about what my goals for the week should be. To be honest I have thought about them but have not put aside the time to write them down and narrow them down to the top five things I want to achieve this week.</p>
 <p>After some time revising and hashing my thoughts out here are my five goals for the Microsoft Ignite conference.</p>
 <ol>
