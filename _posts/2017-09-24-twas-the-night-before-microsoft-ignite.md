@@ -40,7 +40,7 @@ author:
 excerpt: |-
   Five goals for the MSIgnite conference.
 
-  1.) Identity one work problem to solve
+  1.) Identify one work problem to solve
   2.) Get to know my team better
   3.) Work on my MCSD certification
   4.) Learn about AI and AR
@@ -52,7 +52,7 @@ permalink: '/:year/:month/:day/:title'
 <p>As I sit in my hotel room in Orlando, FL revising my <a href="https://www.microsoft.com/en-us/ignite/default.aspx" rel="noopener">Microsoft Ignite</a> conference schedule for the week, I realized I needed to set some goals for the week. I have been busing adding meetings to my calendar and reminders on my smartphone for offsite events, networking opportunities and critical sessions I do not want to miss. All the while I have not taken the time to step back and think about what my goals for the week should be. To be honest I have thought about them but have not put aside the time to write them down and narrow them down to the top five things I want to achieve this week.</p>
 <p>After some time revising and hashing my thoughts out here are my five goals for the Microsoft Ignite conference.</p>
 <ol>
-<li>Identity one work problem to solve</li>
+<li>Identify one work problem to solve</li>
 <li>Get to know my team better</li>
 <li>Work on my MCSD certification</li>
 <li>Learn about AI and AR</li>
@@ -60,7 +60,7 @@ permalink: '/:year/:month/:day/:title'
 </ol>
 <p>If you are attending Microsoft Ignite this week or have attended any other conferences what goals did you set for yourself?</p>
 <p>If you want to see how I did and my takeaways from the Microsoft Ignite conference read my follow up <a href="{{ site.baseurl }}/2017/10/06/microsoft-ignite-review/">post</a>!</p>
-<h2>Identity one work problem to solve</h2>
+<h2>Identify one work problem to solve</h2>
 <p>What's a work conference if you do not try to get some real work done, right? My focus here will be on how to monitor <a href="https://azure.microsoft.com/en-us/services/service-bus/" rel="noopener">Azure Service Bus</a> Topics and Queues in a fault tolerant enterprise solution. When you have messages that are for a business process that flows through many Topics or Queues how do you ensure the process was a success? Compound that problem with the complexity of a solution installed to multiple <a href="https://azure.microsoft.com/en-us/regions/" rel="noopener">Azure regions</a>.</p>
 <p>This problem then gets into how do you monitor the monitor, as in where do these issue notifications go? In the event you have <a href="https://azure.microsoft.com/en-us/services/application-insights/" rel="noopener">Application Insights</a> configured and running with alerts to send emails, who is watching the emails? If you have created <a href="https://channel9.msdn.com/Blogs/trevor-cloud/azure-portal-dashboards" rel="noopener">custom dashboards</a> who is monitoring the dashboard? Maybe tie this into a new <a href="{{ site.baseurl }}/2017/10/17/designing-a-professional-rest-api-example-using-c-asp-net-core/">REST API</a>!</p>
 <h2>Get to know my team better</h2>
