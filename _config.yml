@@ -28,8 +28,7 @@ facebook_username: aaron.ralls.9
 words_per_minute: 200
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
@@ -40,6 +39,15 @@ defaults:
       read_time: true
       related: true
       permalink: '/:year/:month/:day/:title'
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # Build settings
 markdown: kramdown
@@ -65,3 +73,8 @@ plugins:
 #  - jekyll-paginate
 #whitelist:
 #  - jekyll-paginate
+
+#Collections
+collections:
+  authors:
+    output: true
