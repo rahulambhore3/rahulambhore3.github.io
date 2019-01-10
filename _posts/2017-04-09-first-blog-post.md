@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome!
+title: Welcome
 date: 2017-04-09 05:12:13.000000000 -05:00
 type: post
 parent_id: '0'
