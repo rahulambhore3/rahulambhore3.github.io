@@ -26,7 +26,7 @@ twitter_username: cajunAA
 github_username:  aaronralls
 facebook_username: aaron.ralls.9
 words_per_minute: 200
-include: ["_pages"] 
+#include: ["_pages"] 
 
 defaults:
   - scope:
