@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Microsoft Ignite and why you need to go: From Ignite to Burn!'
+title: Microsoft Ignite and why you need to go: From Ignite to Burn
 date: 2017-10-06 16:10:51.000000000 -05:00
 type: post
 parent_id: '0'
