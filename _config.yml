@@ -52,7 +52,7 @@ defaults:
 
 # Build settings
 markdown: kramdown
-  auto_ids: true
+  #auto_ids: true
 theme: minima
 plugins:
   - jekyll-feed
