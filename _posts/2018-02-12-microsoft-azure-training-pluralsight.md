@@ -2,6 +2,7 @@
 layout: post
 title: How to get free Azure training on Pluralsight
 summary: "Start learning about Azure with free training fom Pluralsight."
+header-img: ""
 date: 2018-02-12 11:41:41.000000000 -06:00
 type: post
 parent_id: '0'

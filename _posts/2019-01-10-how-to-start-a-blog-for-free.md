@@ -2,6 +2,7 @@
 layout: post
 title: How to start a blog for free
 summary: "Learn how you can get a hosted blog for free"
+header-img: ""
 date: 2019-01-10 02:34:24.000000000 -05:00
 type: post
 parent_id: '0'
