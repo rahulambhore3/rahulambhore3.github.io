@@ -36,12 +36,13 @@ youtube_channel: UCOi8VW2MisYv8u1Qx7MFa5A
 youtube_channel_name: aaron ralls
 words_per_minute: 200
 google_analytics: UA-58149846-3
+facebook_pixel: 359995938150048
 #include: ["_pages"] 
 
 header_pages:
   - about.md
   - policy.md
-  
+
 show_excerpts: true
 
 defaults:
