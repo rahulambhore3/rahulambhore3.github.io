@@ -35,7 +35,7 @@ permalink: '/:year/:month/:day/:title'
 <p><a href="https://www.facebook.com/randy.friend">Randy Friend</a> from the previous Fort Smith .Net Users Group who answered numerous questions about what worked and did not work with the previous group that stopped meeting.</p>
 <p>This month we have to thank the <a href="http://hamptoninn3.hilton.com/en/hotels/arkansas/hampton-inn-fort-smith-FSMARHX/event/index.html">Hampton Inn</a> on Rogers ave in Fort Smith for providing the meeting space. If you need to host an event or are looking for a place to stay look no further! Speak with Amanda Webb to help you arrange an event.</p>
 <p>Jordan Lerch, a local freelance filmographer, took photos of the event to help with social media promotions. Be sure to check out his <a href="https://www.youtube.com/channel/UCqZk8mU_rkLQaS1r2_gvk7w">YouTube</a> and <a href="https://www.facebook.com/JLFilmography/">Facebook</a> pages if you are looking to hire someone to promote your business he can help with promotional or music videos, interviews, or any sort of informative and creative content.</p>
-<p><a href="http://fstech.org"><img class="wp-image-833 size-large" src="{{ site.baseurl }}/assets/images/20180605/FSTech-user-group-kick-off-1024x575.jpg" alt="Fort Smith Tech User Group Kickoff meeting" width="780" height="438" /></a>
+<p><a href="http://fstech.org"><img class="wp-image-833 size-large" src="{{ site.baseurl }}/assets/images/20180605/FSTech-user-group-kick-off-1024x575.jpg" alt="Fort Smith Tech User Group Kickoff meeting" width="780" /></a>
 <!--{:.image-caption}
 *Fort Smith Tech User Group Kickoff meeting*--></p>
 <h2>Our Vision</h2>
