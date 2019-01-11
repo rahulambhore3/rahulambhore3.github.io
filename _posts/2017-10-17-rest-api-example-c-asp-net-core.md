@@ -3,7 +3,7 @@ layout: post
 title: Designing a Professional REST API Example using C# ASP.NET Core
 summary: "Learn about essential components for a REST API"
 image: /assets/images/20171017/header.jpg
-twitter_image: /assets/images/20171007/twitter-image.jpg
+twitter_image: /assets/images/20171017/twitter-image.jpg
 date: 2017-10-17 04:30:13.000000000 -05:00
 type: post
 parent_id: '0'
