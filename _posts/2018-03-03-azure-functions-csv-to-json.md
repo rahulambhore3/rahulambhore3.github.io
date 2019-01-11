@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Azure Functions to the rescue: CSV to JSON'
+summary: "Learn about Azure Functions and how to convert CSV data to JSON."
 date: 2018-03-03 10:08:01.000000000 -06:00
 type: post
 parent_id: '0'

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Successful Tech User Group Kickoff
+summary: "The Fort Smith Users group is off an running."
 date: 2018-06-05 10:29:42.000000000 -05:00
 type: post
 parent_id: '0'

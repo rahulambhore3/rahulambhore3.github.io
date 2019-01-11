@@ -26,8 +26,7 @@ Here are some of my most recent Microsoft Certifications:
 ![Certification Badge Microsoft Certification MCP 70-486 Developing ASP NET MVC Web Applications][MCP70-486]
  
 ![Certification Badge Microsoft Certification MCP 70-535 Azure Architect][MCP70-535]
-     
+
 [me]: ../assets/images/about/aaron-ralls.jpg "Aaron Ralls software architect MCP"
 [MCP70-486]: ../assets/images/about/exam-486-developing-asp-net-mvc-web-applications-300x300.png "Microsoft Certification MCP 70-486 Developing ASP NET MVC Web Applications"
 [MCP70-535]: ../assets/images/about/exam-535-architecting-microsoft-azure-solutions-300x300.png "Microsoft Certification MCP 70-535 Azure Architect"
-

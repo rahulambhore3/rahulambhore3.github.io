@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Designing a Professional REST API Example using C# ASP.NET Core
+summary: "Learn about essential components for a REST API"
 date: 2017-10-17 04:30:13.000000000 -05:00
 type: post
 parent_id: '0'
@@ -21,7 +22,7 @@ author:
   #display_name: aaronralls74
   #first_name: ''
   #last_name: ''
-excerpt: Design a professional REST API and Azure environments that will be┬áready
+excerpt: Design a professional REST API and Azure environments that will be ready
   for a production environment.
 permalink: '/:year/:month/:day/:title'
 ---

@@ -4,6 +4,7 @@ title: Twas the night before Microsoft Ignite
 date: 2017-09-24 22:34:24.000000000 -05:00
 header-img: ""
 subtitle: "Five goals for the MSIgnite conference."
+summary: "Five goals for the MSIgnite conference."
 type: post
 parent_id: '0'
 published: true

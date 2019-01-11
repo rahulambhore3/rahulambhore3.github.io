@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Microsoft Ignite and why you need to go: From Ignite to Burn
+title: "Microsoft Ignite and why you need to go: From Ignite to Burn"
+summary: "My Microsoft Ignite 2017 Review"
 date: 2017-10-06 16:10:51.000000000 -05:00
 type: post
 parent_id: '0'
@@ -24,7 +25,8 @@ author:
   #last_name: ''
 permalink: '/:year/:month/:day/:title'
 ---
-<h1>What a fun week it was at Microsoft Ignite!</h1>
+# What a fun week it was at Microsoft Ignite!
+
 <p>Wow, Microsoft Ignite is a something every IT person should attend! There were sessions on about every Microsoft product and an equal abundance of caffeine. There were many vendors and Microsoft employees representing their products. It was great being able to walk up and bounce ideas around with the Microsoft staff. Then, to top it off with the grand celebration at <a href="https://www.universalorlando.com/web/en/us/index.html" target="_blank" rel="noopener">Universal Orlando Resort</a>™! I have yet to tell my kids about the amusement park since it would break their hearts. I haven’t even talked about the rides with my wife, she was jealous when I told her before the trip, so you will get more scoop than she will.</p>
 <p>Now, it is back to reality and time to go from Ignite to burn! I will take the energy I had from last week and keep myself on track to push the envelope. This comes from a saying that goes something like “The spark is the idea that Ignites the invention to Burn through obstacles.” I gave myself an action item to find the original quote. The idea is to follow through on what you start. With that notion, I wanted to share with you the progress I made on <a href="{{ site.baseurl }}/2017/09/24/twas-the-night-before-microsoft-ignite/">last week’s goals</a>. I will review them in the order of impact. This will show how important they turned out to be and may help you set better goals.</p>
 <h2>Network with new people</h2>
