@@ -16,6 +16,8 @@
 locale: en
 title: Arkeytek
 title_separator: '-'
+title_image: /assets/images/header/header.jpg
+twitter_title_image: /assets/images/header/header.jpg
 name: Aaron Ralls
 email: arkeytekllc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"

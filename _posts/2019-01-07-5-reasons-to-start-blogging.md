@@ -3,6 +3,7 @@ layout: post
 title: 5 Reasons to start blogging
 summary: "Reasons you should start blogging"
 image: /assets/images/20190107/header.jpg
+twitter_image: /assets/images/20190107/twitter-image.jpg
 date: 2019-01-07 22:34:24.000000000 -05:00
 type: post
 parent_id: '0'

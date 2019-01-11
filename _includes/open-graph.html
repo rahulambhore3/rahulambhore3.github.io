@@ -1,0 +1,6 @@
+{% if page.image %}
+    <meta property="og:image" content="{{ post.image | prepend: site.baseurl }}" />
+{% endif %}
+
+<meta property="og:url" content="{{post.url | prepend: site.baseurl }}" />
+<meta property="og:description" content="{{ page.title | markdownify | strip_html | truncate:160  }}">
