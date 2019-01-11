@@ -14,22 +14,29 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        {% assign words = post.content | number_of_words %}
-        {% if words < 360 %}
-        <span class="post-meta">• 1 min</span>
-        {% else %}
-        <span class="post-meta">• {{ words | divided_by:180 }} mins</span>
-        {% endif %}
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+        <article class="" itemscope itemtype="https://schema.org/CreativeWork">
+          <img src="{{ post.image | prepend: site.baseurl }}" width="200" alt="{{ post.title }}" title="{{ post.title }}">
+          
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          {% assign words = post.content | number_of_words %}
+          {% if words < 360 %}
+          <span class="post-meta">• 1 min</span>
+          {% else %}
+          <span class="post-meta">• {{ words | divided_by:180 }} mins</span>
+          {% endif %}
+          {% if post.excerpt %}
+            <p class="" itemprop="description" >{{ post.excerpt | markdownify | strip_html | truncate:160 }}</p>
+          {% endif %}
+          {%- if site.show_excerpts -%}
+            
+          {%- endif -%}
+      </article>
       </li>
       {%- endfor -%}
     </ul>

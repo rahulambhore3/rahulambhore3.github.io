@@ -2,7 +2,8 @@
 layout: post
 title: 'Azure Functions to the rescue: CSV to JSON'
 summary: "Learn about Azure Functions and how to convert CSV data to JSON."
-header-img: ""
+excerpt: Recently I had to create an SFTP server and update tables in Azure SQL. I decided to use an Azure Logic App
+image: /assets/images/20180303/header.jpg
 date: 2018-03-03 10:08:01.000000000 -06:00
 type: post
 parent_id: '0'

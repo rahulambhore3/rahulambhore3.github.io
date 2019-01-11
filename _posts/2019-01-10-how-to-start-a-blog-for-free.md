@@ -2,7 +2,7 @@
 layout: post
 title: How to start a blog for free
 summary: "Learn how you can get a hosted blog for free"
-header-img: ""
+image: /assets/images/20190110/header.jpg
 date: 2019-01-10 02:34:24.000000000 -05:00
 type: post
 parent_id: '0'
@@ -44,6 +44,8 @@ On the [WordPress.com][WordPressCOMLink] you may create a free blog that you can
 
 This has a little more complexity to setup but may be worth the time.
 
+If you want to learn more about the differences between the WordPress sites [here][WordPressComparisonLink] is a good article.
+
 ## GitHub Pages
 
 **MORE TO COME HERE**
@@ -79,3 +81,4 @@ What is GitHub
 [OverrideThemeDefaults]: https://jekyllrb.com/docs/themes/#overriding-theme-defaults "Override Theme Defaults"
 [GoDaddyLink]: https://www.godaddy.com/hosting/wordpress-hosting "GoDaddy WordPress Hosting"
 [WordPressCOMLink]: https://wordpress.com/ "WordPress main site"
+[WordPressComparisonLink]:https://www.wpbeginner.com/beginners-guide/why-is-wordpress-free-what-are-the-costs-what-is-the-catch/ "WordPress.org vs. WordPress.com"

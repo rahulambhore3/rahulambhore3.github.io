@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome
-header-img: ""
+image: /assets/images/20170409/header.jpg
 date: 2017-04-09 05:12:13.000000000 -05:00
 summary: "First Post"
 type: post

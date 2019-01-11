@@ -2,7 +2,7 @@
 layout: post
 title: How to Blog without a Blog
 summary: "Learn how you can become a blogger without a blog"
-header-img: ""
+image: /assets/images/20190108/header.png
 date: 2019-01-08 22:34:24.000000000 -05:00
 type: post
 parent_id: '0'
