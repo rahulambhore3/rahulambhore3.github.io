@@ -28,6 +28,7 @@ prod_url: "https://arkeytek.com"
 twitter_username: cajunAA
 github_username:  aaronralls
 facebook_username: aaron.ralls.9
+facebook_APPID: 579521919053592
 linkedin_username: aaron-ralls
 stackoverflow_username: aaronR
 instagram_username: double_a_ralls
@@ -37,6 +38,10 @@ words_per_minute: 200
 google_analytics: UA-58149846-3
 #include: ["_pages"] 
 
+header_pages:
+  - about.md
+  - policy.md
+  
 show_excerpts: true
 
 defaults:
