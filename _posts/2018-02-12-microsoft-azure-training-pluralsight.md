@@ -5,6 +5,7 @@ summary: "Start learning about Azure with free training fom Pluralsight."
 excerpt: Microsoft and Pluralsight have an agreement that provides free Azure training courses when your accounts are linked.
 image: /assets/images/20180212/header.jpg
 twitter_image: /assets/images/20180212/twitter-image.jpg
+facebook_link_image: /assets/images/20180212/facebook-link-image.jpg
 date: 2018-02-12 11:41:41.000000000 -06:00
 type: post
 parent_id: '0'

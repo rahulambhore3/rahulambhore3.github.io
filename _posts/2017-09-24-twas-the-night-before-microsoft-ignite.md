@@ -4,6 +4,7 @@ title: Twas the night before Microsoft Ignite
 date: 2017-09-24 22:34:24.000000000 -05:00
 image: /assets/images/20170924/header.jpg
 twitter_image: /assets/images/20170924/twitter-image.jpg
+facebook_link_image: /assets/images/20170924/facebook-link-image.jpg
 subtitle: "Five goals for the MSIgnite conference."
 summary: "Five goals for the MSIgnite conference."
 type: post

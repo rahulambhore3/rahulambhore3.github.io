@@ -4,6 +4,7 @@ title: How to Blog without a Blog
 summary: "Learn how you can become a blogger without a blog"
 image: /assets/images/20190108/header.png
 twitter_image: /assets/images/20190108/twitter-image.jpg
+facebook_link_image: /assets/images/20190108/facebook-link-image.jpg
 date: 2019-01-08 22:34:24.000000000 -05:00
 type: post
 parent_id: '0'

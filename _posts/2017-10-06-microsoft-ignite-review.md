@@ -5,6 +5,7 @@ summary: "My Microsoft Ignite 2017 Review"
 excerpt: Wow, Microsoft Ignite is a something every IT person should attend! There were sessions on about every Microsoft product and an equal abundance of caffeine. 
 image: /assets/images/20171006/header.jpg
 twitter_image: /assets/images/20171006/twitter-image.jpg
+facebook_link_image: /assets/images/20171006/facebook-link-image.jpg
 date: 2017-10-06 16:10:51.000000000 -05:00
 type: post
 parent_id: '0'

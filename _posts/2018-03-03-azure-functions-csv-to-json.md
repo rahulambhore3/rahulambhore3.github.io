@@ -5,6 +5,7 @@ summary: "Learn about Azure Functions and how to convert CSV data to JSON."
 excerpt: Recently I had to create an SFTP server and update tables in Azure SQL. I decided to use an Azure Logic App
 image: /assets/images/20180303/header.jpg
 twitter_image: /assets/images/20180303/twitter-image.jpg
+facebook_link_image: /assets/images/20180303/facebook-link-image.jpg
 date: 2018-03-03 10:08:01.000000000 -06:00
 type: post
 parent_id: '0'
