@@ -1,5 +1,7 @@
 ---
 layout: post
+redirect_from:
+   - /2017/10/06/microsoft-ignite-review/
 title: "Microsoft Ignite and why you need to go: From Ignite to Burn"
 summary: "My Microsoft Ignite 2017 Review"
 excerpt: Wow, Microsoft Ignite is a something every IT person should attend! There were sessions on about every Microsoft product and an equal abundance of caffeine. 
