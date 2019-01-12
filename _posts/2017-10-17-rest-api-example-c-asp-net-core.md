@@ -1,5 +1,7 @@
 ---
 layout: post
+redirect_from: 
+    - /2017/10/17/rest-api-example-c-asp-net-core/
 title: Designing a Professional REST API Example using C# ASP.NET Core
 summary: "Learn about essential components for a REST API"
 image: /assets/images/20171017/header.jpg
