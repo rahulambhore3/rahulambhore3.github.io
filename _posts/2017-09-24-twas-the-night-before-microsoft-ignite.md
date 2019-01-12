@@ -1,5 +1,7 @@
 ---
 layout: post
+redirect_from:
+   - /2017/09/24/twas-the-night-before-microsoft-ignite/
 title: Twas the night before Microsoft Ignite
 date: 2017-09-24 22:34:24.000000000 -05:00
 image: /assets/images/20170924/header.jpg
