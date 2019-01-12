@@ -1,4 +1,4 @@
----https://arkeytek.com/2017/09/25/twas-the-night-before-microsoft-ignite/
+---
 layout: post
 redirect_from:
    - /2017/09/25/twas-the-night-before-microsoft-ignite/
