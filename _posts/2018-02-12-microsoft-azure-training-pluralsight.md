@@ -1,7 +1,7 @@
 ---
 layout: post
 redirect_from: 
-    - /2018/06/05/microsoft-azure-training-pluralsight/
+    - /2018/02/12/microsoft-azure-training-pluralsight/
 title: How to get free Azure training on Pluralsight
 summary: "Start learning about Azure with free training fom Pluralsight."
 excerpt: Microsoft and Pluralsight have an agreement that provides free Azure training courses when your accounts are linked.
