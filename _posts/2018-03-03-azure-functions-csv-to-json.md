@@ -1,5 +1,7 @@
 ---
 layout: post
+redirect_from: 
+    - /2018/03/03/azure-functions-csv-to-json/
 title: 'Azure Functions to the rescue: CSV to JSON'
 summary: "Learn about Azure Functions and how to convert CSV data to JSON."
 excerpt: Recently I had to create an SFTP server and update tables in Azure SQL. I decided to use an Azure Logic App
