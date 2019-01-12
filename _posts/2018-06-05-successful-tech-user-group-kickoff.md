@@ -1,5 +1,7 @@
 ---
 layout: post
+redirect_from: 
+    - /2018/06/05/successful-tech-user-group-kickoff/
 title: Successful Tech User Group Kickoff
 summary: "The Fort Smith Users group is off an running."
 excerpt:  The Fort Smith Tech User Group is now active!
