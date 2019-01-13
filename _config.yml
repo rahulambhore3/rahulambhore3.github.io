@@ -16,27 +16,27 @@
 locale: en
 title: Arkeytek
 title_separator: '-'
-title_image: /assets/images/header/header.jpg
-twitter_title_image: /assets/images/header/header.jpg
+#title_image: /assets/images/header/header.jpg
+#twitter_title_image: /assets/images/header/header.jpg
 name: Aaron Ralls
 email: arkeytekllc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 repository: "aaronralls/aaronralls.github.io"  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://arkeytek.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arkeytek.com" # the base hostname & protocol for your site, e.g. http://example.com or https://aaronralls.github.io
 prod_url: "https://arkeytek.com"
-twitter_username: cajunAA
+#twitter_username: cajunAA
 github_username:  aaronralls
-facebook_username: aaron.ralls.9
-facebook_APPID: 579521919053592
-linkedin_username: aaron-ralls
-stackoverflow_username: aaronR
-instagram_username: double_a_ralls
-youtube_channel: UCOi8VW2MisYv8u1Qx7MFa5A
-youtube_channel_name: aaron ralls
+#facebook_username: aaron.ralls.9
+#facebook_APPID: 
+#linkedin_username: aaron-ralls
+#stackoverflow_username: aaronR
+#instagram_username: double_a_ralls
+#youtube_channel: 
+#youtube_channel_name: 
 words_per_minute: 200
-google_analytics: UA-58149846-3
-facebook_pixel: 359995938150048
+#google_analytics: UA-58149846-3
+#facebook_pixel: 359995938150048
 #include: ["_pages"] 
 
 header_pages:
@@ -57,11 +57,6 @@ defaults:
       read_time: true
       related: true
       permalink: '/:year/:month/:day/:title'
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
   - scope:
       path: ""
     values:
@@ -96,6 +91,3 @@ plugins:
 #  - jekyll-paginate
 
 #Collections
-collections:
-  authors:
-    output: true
