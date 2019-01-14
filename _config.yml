@@ -23,8 +23,8 @@ email: arkeytekllc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 repository: "aaronralls/aaronralls.github.io"  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://arkeytek.com" # the base hostname & protocol for your site, e.g. http://example.com or https://aaronralls.github.io
-prod_url: "https://arkeytek.com"
+url: "https://aaronralls.github.io" # the base hostname & protocol for your site, e.g. http://example.com or https://aaronralls.github.io
+prod_url: "https://aaronralls.github.io"
 #twitter_username: cajunAA
 github_username:  aaronralls
 #facebook_username: aaron.ralls.9
