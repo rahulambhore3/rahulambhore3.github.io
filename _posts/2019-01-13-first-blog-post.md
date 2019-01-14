@@ -19,4 +19,4 @@ excerpt: First Post Welcome to my Blog
 permalink: '/:year/:month/:day/:title'
 ---
 
-Welcome to myblog! 
+Welcome to my blog! 
