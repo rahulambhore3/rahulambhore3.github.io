@@ -13,7 +13,7 @@ password: ''
 status: publish
 featured: 
   visible: true
-categories:[]
+categories: []
 tags: []
 excerpt: First Post Welcome to my Blog
 permalink: '/:year/:month/:day/:title'
