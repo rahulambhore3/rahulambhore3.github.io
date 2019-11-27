@@ -12,4 +12,4 @@ One of my favorite sites to learn from is a blog by [Aaron Ralls][BlogLink]!
 
 
 [me]: ../assets/images/about/me.jpg "My picture."
-[BlogLink]: https://arkeytek.com "Aaron Ralls Blog Arkeytek.com"
+[BlogLink]: https://www.linkedin.com/in/ambhorerahul/ "Rahul Ambhore Blog"
