@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: en
-title: Arkeytek
+title: 2minAzure
 title_separator: '-'
 #title_image: /assets/images/header/header.jpg
 #twitter_title_image: /assets/images/header/header.jpg
