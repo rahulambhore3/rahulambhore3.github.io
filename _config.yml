@@ -18,15 +18,15 @@ title: Arkeytek
 title_separator: '-'
 #title_image: /assets/images/header/header.jpg
 #twitter_title_image: /assets/images/header/header.jpg
-name: Aaron Ralls
-email: arkeytekllc@gmail.com
+name: Rahul Ambhore
+email: rahulambhore3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-repository: "aaronralls/aaronralls.github.io"  
+repository: "rahulambhore3/rahulambhore3.github.io"  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aaronralls.github.io" # the base hostname & protocol for your site, e.g. http://example.com or https://aaronralls.github.io
-prod_url: "https://aaronralls.github.io"
+url: "https://rahulambhore3.github.io" # the base hostname & protocol for your site, e.g. http://example.com or https://aaronralls.github.io
+prod_url: "https://rahulambhore3.github.io"
 #twitter_username: cajunAA
-github_username:  aaronralls
+github_username:  rahulambhore3
 #facebook_username: aaron.ralls.9
 #facebook_APPID: 
 #linkedin_username: aaron-ralls
@@ -51,7 +51,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: Aaron Ralls
+      author: Rahul Ambhore
       author_profile: true
       share: true
       read_time: true
