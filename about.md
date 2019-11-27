@@ -8,7 +8,7 @@ title: About
 
 Thank you for visiting my site!
 
-One of my favorite sites to learn from is a blog by [Aaron Ralls][BlogLink]!
+One of my favorite sites to learn from is a blog by [Rahul Ambhore][BlogLink]!
 
 
 [me]: ../assets/images/about/me.jpg "My picture."
